@@ -1,7 +1,12 @@
 body {
     margin: 0;
     font-family: "Verdana", sans-serif;
-    background: #5b7a47;
+    background: #398691;
+}
+
+h1 {
+    font-family: 'Noto Serif', serif;
+    font-size: 5rem;
 }
 
 main {
